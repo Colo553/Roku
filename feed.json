@@ -1,19 +1,16 @@
 {
 	"providerName": "FOX News",
 	"language": "en-US",
-	"lastUpdated": "2018-06-20T12: 00: 00.000Z",
+	"lastUpdated": "2018-06-20T12:00:00.000Z",
 	"shortFormVideos": [
 		 {
 				"id": "73774uudu888822",
 				"title": "FOX News",
 				"shortDescription": "FOX News",
-				"thumbnail": "https: //cdn.rawgit.com/Colo553/Roku/f3bf1656/MC-fox.jpg",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/f3bf1656/MC-fox.jpg",
 				"releaseDate": "2018-06-20",
 				"content": {
-					 "dateAdded": "2018-06-20T12: 00: 00.000Z",
-					"captions": [
-
-					 ],
+					 "dateAdded": "2018-06-20T12:00:00.000Z",
 					 "duration": 150000,
 					 "videos": [
 							{
