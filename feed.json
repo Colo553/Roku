@@ -19,7 +19,10 @@
 								 "videoType": "hls"
 							}
 					 ]
-				}
+				},
+				"tags": [
+					"all"
+				]
 		 }
 	]
 }
