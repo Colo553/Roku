@@ -68,7 +68,7 @@
 		 },
 		 {
 				"id": "73774uudu888825",
-				"title": "123S STREAM",
+				"title": "123 STREAM",
 				"shortDescription": "HGTV",
 				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/964d3ad8/hgtv.jpg",
 				"releaseDate": "2018-06-21",
@@ -85,6 +85,27 @@
 				},
 				"tags": [
 					"HGTV"
+				]
+		 },
+		 {
+				"id": "73774uudu888826",
+				"title": "LiveOnlineTv247",
+				"shortDescription": "History",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/62f3231b/history.jpg",
+				"releaseDate": "2018-06-21",
+				"content": {
+					 "dateAdded": "2018-06-21T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "http://89.248.169.24/live/history-hq/chunks.m3u8?nimblesessionid=10796704&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDE4IDEwOjU3OjE1IFBNJmhhc2hfdmFsdWU9OWtJVUdBMzZRUkUrRU5udGo5aEZzQT09JnZhbGlkbWludXRlcz02MCZpZD03Mi4yMjQuNjYuNTImc3RybV9sZW49MTU=",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"History"
 				]
 		 }
 	]
