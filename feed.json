@@ -29,7 +29,7 @@
 				"title": "LIVE NEWS ON",
 				"shortDescription": "FOX News",
 				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/f3bf1656/MC-fox.jpg",
-				"releaseDate": "2018-06-20",
+				"releaseDate": "2018-06-21",
 				"content": {
 					 "dateAdded": "2018-06-21T12:00:00.000Z",
 					 "duration": 999999,
@@ -50,13 +50,13 @@
 				"title": "LiveOnlineTv247",
 				"shortDescription": "Golf Channel",
 				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/3d0eac60/golf_channel.jpg",
-				"releaseDate": "2018-06-20",
+				"releaseDate": "2018-06-21",
 				"content": {
 					 "dateAdded": "2018-06-21T12:00:00.000Z",
 					 "duration": 999999,
 					 "videos": [
 							{
-								 "url": "http://89.248.169.24/live/golfchannel-hq/chunks.m3u8?nimblesessionid=10771857&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDE4IDk6MDg6MDYgUE0maGFzaF92YWx1ZT1zNG5oWVBUMldLTG1nRG9IUnVzTGRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTcyLjIyNC42Ni41MiZzdHJtX2xlbj0xOQ==",
+								 "url": "http://cors.hyoo.ru/http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8",
 								 "quality": "HD",
 								 "videoType": "hls"
 							}
