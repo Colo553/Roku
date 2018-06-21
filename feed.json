@@ -6,7 +6,7 @@
 		 {
 				"id": "73774uudu888822",
 				"title": "FOX News",
-				"shortDescription": "FOX News",
+				"shortDescription": "STREAMFARE",
 				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/f3bf1656/MC-fox.jpg",
 				"releaseDate": "2018-06-20",
 				"content": {
@@ -15,6 +15,27 @@
 					 "videos": [
 							{
 								 "url": "http://2d05.janjuaplayer.com:8088/live/livenewsbox_FoxNews/playlist.m3u8?id=62162&pk=732dbe07d90e607136bcbda3f6fd54a538b332f7f9b9f7f65942b27dd3033376",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"all"
+				]
+		 },
+		 {
+				"id": "73774uudu888823",
+				"title": "FOX News",
+				"shortDescription": "LIVE NEWS ON",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/f3bf1656/MC-fox.jpg",
+				"releaseDate": "2018-06-20",
+				"content": {
+					 "dateAdded": "2018-06-20T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "http://149.56.26.63:1935/fxnews/myStream/chunklist_w464227756.m3u8",
 								 "quality": "HD",
 								 "videoType": "hls"
 							}
