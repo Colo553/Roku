@@ -56,7 +56,7 @@
 					 "duration": 999999,
 					 "videos": [
 							{
-								 "url": "http://149.56.26.63:1935/fxnews/myStream/chunklist_w464227756.m3u8",
+								 "url": "http://89.248.169.24/live/golfchannel-hq/chunks.m3u8?nimblesessionid=10771857&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDE4IDk6MDg6MDYgUE0maGFzaF92YWx1ZT1zNG5oWVBUMldLTG1nRG9IUnVzTGRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTcyLjIyNC42Ni41MiZzdHJtX2xlbj0xOQ==",
 								 "quality": "HD",
 								 "videoType": "hls"
 							}
