@@ -65,6 +65,27 @@
 				"tags": [
 					"Golf Channel"
 				]
+		 },
+		 {
+				"id": "73774uudu888825",
+				"title": "123S STREAM",
+				"shortDescription": "HGTV",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/964d3ad8/hgtv.jpg",
+				"releaseDate": "2018-06-21",
+				"content": {
+					 "dateAdded": "2018-06-21T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "https://nlcache5.streamlive.to/edge/gj65q2rg18tpmut/chunks.m3u8?nimblesessionid=6094328&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDE4IDEwOjA5OjU5IFBNJmhhc2hfdmFsdWU9Z0Q1UFBmeHBPbmJ5dmQ4ckd2d2dpQT09JnZhbGlkbWludXRlcz0xMDAmc3RybV9sZW49MjAmaWQ9NzIuMjI0LjY2LjUy",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"HGTV"
+				]
 		 }
 	]
 }
