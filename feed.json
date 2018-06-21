@@ -11,11 +11,11 @@
 				"releaseDate": "2018-06-20",
 				"content": {
 					 "dateAdded": "2018-06-20T12:00:00.000Z",
-					 "duration": 150000,
+					 "duration": 999999,
 					 "videos": [
 							{
 								 "url": "http://2d05.janjuaplayer.com:8088/live/livenewsbox_FoxNews/playlist.m3u8?id=62162&pk=732dbe07d90e607136bcbda3f6fd54a538b332f7f9b9f7f65942b27dd3033376",
-								 "quality": "UHD",
+								 "quality": "HD",
 								 "videoType": "hls"
 							}
 					 ]
