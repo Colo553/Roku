@@ -1,12 +1,12 @@
 {
-	"providerName": "FOX News",
+	"providerName": "Channels",
 	"language": "en-US",
-	"lastUpdated": "2018-06-20T12:00:00.000Z",
+	"lastUpdated": "2018-06-21T12:00:00.000Z",
 	"shortFormVideos": [
 		 {
 				"id": "73774uudu888822",
-				"title": "FOX News",
-				"shortDescription": "STREAMFARE",
+				"title": "STREAMFARE",
+				"shortDescription": "FOX News",
 				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/f3bf1656/MC-fox.jpg",
 				"releaseDate": "2018-06-20",
 				"content": {
@@ -21,17 +21,17 @@
 					 ]
 				},
 				"tags": [
-					"all"
+					"FOX News"
 				]
 		 },
 		 {
 				"id": "73774uudu888823",
-				"title": "FOX News",
-				"shortDescription": "LIVE NEWS ON",
+				"title": "LIVE NEWS ON",
+				"shortDescription": "FOX News",
 				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/f3bf1656/MC-fox.jpg",
 				"releaseDate": "2018-06-20",
 				"content": {
-					 "dateAdded": "2018-06-20T12:00:00.000Z",
+					 "dateAdded": "2018-06-21T12:00:00.000Z",
 					 "duration": 999999,
 					 "videos": [
 							{
@@ -42,7 +42,28 @@
 					 ]
 				},
 				"tags": [
-					"all"
+					"FOX News"
+				]
+		 },
+		 {
+				"id": "73774uudu888824",
+				"title": "LiveOnlineTv247",
+				"shortDescription": "Golf Channel",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/b0b4d450/golf_channel.png",
+				"releaseDate": "2018-06-20",
+				"content": {
+					 "dateAdded": "2018-06-21T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "http://149.56.26.63:1935/fxnews/myStream/chunklist_w464227756.m3u8",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"Golf Channel"
 				]
 		 }
 	]
