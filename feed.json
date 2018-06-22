@@ -119,7 +119,7 @@
 					 "duration": 999999,
 					 "videos": [
 							{
-								 "url": "http://v4.ustreamix.com/Comedy-Central.m3u8?token=comedy-central_i-ebbadd29782040db7405f2308a25a6a9",
+								 "url": "https://content-ausw4.uplynk.com/channel/19334c6a5c614c46b2f198f15c179163/i.m3u8?tc=1&exp=1529665604&rn=452497925&ct=c&cid=19334c6a5c614c46b2f198f15c179163&ts=1529665304&endts=1529665664&ad.pingf=5&ad.customer_id=165a7&ad.nw=91559&ad.prof=91559%3Adiscovery_eos_js_novpaid_live&ad.csid=dsc.discovery.com%2Flive&ad.vip=142.44.162.94&ad.kv=_fw_fss%2C_fw_search%2C_fw_ae%2Cnull%2C_fw_bumper%2Cnull%2C_fw_nielsen_app_id%2Cus-201051&ad.caid=livestream&pp2ip=0&ad.cping=1&ad=fw&rays=cdefghiba&sig=1e21dd34a81f170b07ce01d80443016a6e9824d3542aba0ec7a2a15e89083be5&pbs=c5431b0d90984c32bcf7270159350712",
 								 "quality": "HD",
 								 "videoType": "hls"
 							}
