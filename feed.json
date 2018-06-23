@@ -131,9 +131,9 @@
 		 },
 		 {
 				"id": "73774uudu888828",
-				"title": "UstreaMix",
+				"title": "streamgaroo",
 				"shortDescription": "Food Network",
-				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/1b9b8f7d/comedy_central.jpg",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/f3cf8cfc/food_network.jpg",
 				"releaseDate": "2018-06-22",
 				"content": {
 					 "dateAdded": "2018-06-22T12:00:00.000Z",
@@ -152,16 +152,16 @@
 		 },
 		 {
 				"id": "73774uudu888829",
-				"title": "UstreaMix",
+				"title": "streamgaroo",
 				"shortDescription": "National Geographic",
-				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/1b9b8f7d/comedy_central.jpg",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/f3cf8cfc/national_geographic.jpg",
 				"releaseDate": "2018-06-22",
 				"content": {
 					 "dateAdded": "2018-06-22T12:00:00.000Z",
 					 "duration": 999999,
 					 "videos": [
 							{
-								 "url": "https://content-ause4.uplynk.com/channel/ceb8d6e35fca432f9f32f4f1f4a822b8/g.m3u8?ct=c&ad.locationDesc=comedy_central_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae,53da17a30bd0d3c946a41c86cb5873f1,_vmn_ar,true,_fw_vcid2,82125:comedycentral_85589d58045544cf90ad71e6cd04948b&euid=85589d58-0455-44cf-90ad-71e6cd04948b&exp=1529714745&rn=79647148&ad.euid=85589d58-0455-44cf-90ad-71e6cd04948b&cid=ceb8d6e35fca432f9f32f4f1f4a822b8&tc=1&sig=517bcf36e86d842e9d1062af8364e1bbfcee013856f1ffe132f837df3076b6ad&pbs=019c9e6d4f2148da878aa8dd2c89ee5c",
+								 "url": "https://nlcache5.streamlive.to/edge/qzsfigd1y3bgbhs/chunks.m3u8?nimblesessionid=6157296&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDE4IDE6MzQ6MjggQU0maGFzaF92YWx1ZT1TUkdaVTZSUHl6K3ZXUGNrdlJ0OXp3PT0mdmFsaWRtaW51dGVzPTEwMCZzdHJtX2xlbj0yMCZpZD0yNjA0OjYwMDA6MTUxOTo4YTpkZDE2OjVkZGI6ODgxMDo5YjQw",
 								 "quality": "HD",
 								 "videoType": "hls"
 							}
@@ -173,7 +173,7 @@
 		 },
 		 {
 				"id": "73774uudu888830",
-				"title": "UstreaMix",
+				"title": "streamgaroo",
 				"shortDescription": "Comedy Central",
 				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/1b9b8f7d/comedy_central.jpg",
 				"releaseDate": "2018-06-21",
@@ -190,6 +190,48 @@
 				},
 				"tags": [
 					"Comedy Central"
+				]
+		 },
+		 {
+				"id": "73774uudu888831",
+				"title": "streamgaroo",
+				"shortDescription": "AMC",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/9ae322ad/amc.jpg",
+				"releaseDate": "2018-06-21",
+				"content": {
+					 "dateAdded": "2018-06-21T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "https://1.picturecdn.ml/live/amc-hq/chunks.m3u8?nimblesessionid=2249857&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDE4IDEyOjQ2OjExIEFNJmhhc2hfdmFsdWU9TFF1YjBpaEI4YmdleTd6cDlDU2lUdz09JnZhbGlkbWludXRlcz02MCZpZD0xOTkuMTg4LjIwMC44NiZzdHJtX2xlbj01",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"AMC"
+				]
+		 },
+		 {
+				"id": "73774uudu888832",
+				"title": "Bloomberg",
+				"shortDescription": "Bloomberg",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/d5f641b9/bloomberg.jpg",
+				"releaseDate": "2018-06-21",
+				"content": {
+					 "dateAdded": "2018-06-21T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"Bloomberg"
 				]
 		 }
 	]
