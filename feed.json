@@ -35,7 +35,7 @@
 					 "duration": 999999,
 					 "videos": [
 							{
-								 "url": "http://149.56.26.63:1935/fxnews/myStream/chunklist_w464227756.m3u8",
+								 "url": "http://149.56.26.63:1935/fxnews/myStream/chunklist_w78383509.m3u8",
 								 "quality": "HD",
 								 "videoType": "hls"
 							}
@@ -98,7 +98,7 @@
 					 "duration": 999999,
 					 "videos": [
 							{
-								 "url": "http://v4.ustreamix.com/History-EN.m3u8?token=history-latino_i-b083a5c419075ab9e6bb356df73ee3e7",
+								 "url": "https://lhr-1.firstonetv.net:4434/hls/bd318419874c08b17c3a7107fdaf928e/1529602336/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135342e6d6264722e63662f7032702f62363633373366306162303930303062316163643036353736626339316565622e6d3375383f73743d526e714f514647307a6b382d54566c7a4e57314f504126653d31353239363136373336.m3u8",
 								 "quality": "HD",
 								 "videoType": "hls"
 							}
@@ -132,6 +132,48 @@
 		 {
 				"id": "73774uudu888828",
 				"title": "UstreaMix",
+				"shortDescription": "Food Network",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/1b9b8f7d/comedy_central.jpg",
+				"releaseDate": "2018-06-22",
+				"content": {
+					 "dateAdded": "2018-06-22T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "https://content-ause4.uplynk.com/channel/ceb8d6e35fca432f9f32f4f1f4a822b8/g.m3u8?ct=c&ad.locationDesc=comedy_central_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae,53da17a30bd0d3c946a41c86cb5873f1,_vmn_ar,true,_fw_vcid2,82125:comedycentral_85589d58045544cf90ad71e6cd04948b&euid=85589d58-0455-44cf-90ad-71e6cd04948b&exp=1529714745&rn=79647148&ad.euid=85589d58-0455-44cf-90ad-71e6cd04948b&cid=ceb8d6e35fca432f9f32f4f1f4a822b8&tc=1&sig=517bcf36e86d842e9d1062af8364e1bbfcee013856f1ffe132f837df3076b6ad&pbs=019c9e6d4f2148da878aa8dd2c89ee5c",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"Food Network"
+				]
+		 },
+		 {
+				"id": "73774uudu888828",
+				"title": "UstreaMix",
+				"shortDescription": "National Geographic",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/1b9b8f7d/comedy_central.jpg",
+				"releaseDate": "2018-06-22",
+				"content": {
+					 "dateAdded": "2018-06-22T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "https://content-ause4.uplynk.com/channel/ceb8d6e35fca432f9f32f4f1f4a822b8/g.m3u8?ct=c&ad.locationDesc=comedy_central_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae,53da17a30bd0d3c946a41c86cb5873f1,_vmn_ar,true,_fw_vcid2,82125:comedycentral_85589d58045544cf90ad71e6cd04948b&euid=85589d58-0455-44cf-90ad-71e6cd04948b&exp=1529714745&rn=79647148&ad.euid=85589d58-0455-44cf-90ad-71e6cd04948b&cid=ceb8d6e35fca432f9f32f4f1f4a822b8&tc=1&sig=517bcf36e86d842e9d1062af8364e1bbfcee013856f1ffe132f837df3076b6ad&pbs=019c9e6d4f2148da878aa8dd2c89ee5c",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"National Geographic"
+				]
+		 },
+		 {
+				"id": "73774uudu888828",
+				"title": "UstreaMix",
 				"shortDescription": "Comedy Central",
 				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/1b9b8f7d/comedy_central.jpg",
 				"releaseDate": "2018-06-21",
@@ -140,7 +182,7 @@
 					 "duration": 999999,
 					 "videos": [
 							{
-								 "url": "http://v4.ustreamix.com/Comedy-Central.m3u8?token=comedy-central_i-ebbadd29782040db7405f2308a25a6a9",
+								 "url": "https://content-ause4.uplynk.com/channel/ceb8d6e35fca432f9f32f4f1f4a822b8/g.m3u8?ct=c&ad.locationDesc=comedy_central_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae,53da17a30bd0d3c946a41c86cb5873f1,_vmn_ar,true,_fw_vcid2,82125:comedycentral_85589d58045544cf90ad71e6cd04948b&euid=85589d58-0455-44cf-90ad-71e6cd04948b&exp=1529714745&rn=79647148&ad.euid=85589d58-0455-44cf-90ad-71e6cd04948b&cid=ceb8d6e35fca432f9f32f4f1f4a822b8&tc=1&sig=517bcf36e86d842e9d1062af8364e1bbfcee013856f1ffe132f837df3076b6ad&pbs=019c9e6d4f2148da878aa8dd2c89ee5c",
 								 "quality": "HD",
 								 "videoType": "hls"
 							}
