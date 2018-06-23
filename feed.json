@@ -68,7 +68,7 @@
 		 },
 		 {
 				"id": "73774uudu888825",
-				"title": "123 STREAM",
+				"title": "streamgaroo",
 				"shortDescription": "HGTV",
 				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/964d3ad8/hgtv.jpg",
 				"releaseDate": "2018-06-21",
@@ -77,7 +77,7 @@
 					 "duration": 999999,
 					 "videos": [
 							{
-								 "url": "https://nlcache5.streamlive.to/edge/gj65q2rg18tpmut/chunks.m3u8?nimblesessionid=6094328&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDE4IDEwOjA5OjU5IFBNJmhhc2hfdmFsdWU9Z0Q1UFBmeHBPbmJ5dmQ4ckd2d2dpQT09JnZhbGlkbWludXRlcz0xMDAmc3RybV9sZW49MjAmaWQ9NzIuMjI0LjY2LjUy",
+								 "url": "https://lhr-1.firstonetv.net:4434/hls/a13e6e0d54813e67b9ad8aba2fd51fe2/1529738156/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135332e6d6264722e63662f7032702f37643930303063303936376363343931396630376563626532373336633935612e6d3375383f73743d4e795666354b4971763971666933476b38325f43447726653d31353239373532353536.m3u8",
 								 "quality": "HD",
 								 "videoType": "hls"
 							}
